@@ -1,0 +1,20 @@
+city,siteID,camera,locationName,sealing,match,imp_R100_qgis,note
+Bonn,BN-1,SN010039,"Rheinstrasse, Sankt Augustin",40,coordinates,42.8,"swapped with BN-2 (first-run script had 20); QGIS value supports 40"
+Bonn,BN-2,SN010040,"Mondorfer Str, Bonn",20,coordinates,20.8,"swapped with BN-1 (first-run script had 40); QGIS value supports 20"
+Bonn,BN-3,SN010034,"Noeggerathstr., Bonn",80,coordinates,,"sparse catches; included using the months of the other Bonn sites"
+Bonn,BN-4,SN010033,"FJW Holtorf, Bonn",0,coordinates,,
+Bonn,BN-5,SN010035,"Museum Koenig, Bonn",60,coordinates,,
+Jena,J-1,SN010004,"Imaginata, Jena",80,coordinates,74.7,
+Jena,J-2,SN010003,"Waldstandort Remderoda, Jena",0,coordinates,,
+Jena,J-3,SN010005,"Haeckelhaus, Jena",60,coordinates,51.5,
+Jena,J-4,SN010006,"Garten Gunnar Brehm, Jena",40,coordinates,38.5,
+Jena,J-5,SN010007,"Im Planer, Jena",20,coordinates,25.6,
+Leipzig,L-1,SN010014;SN010036,"Garden Uwe Wallberg, Leipzig",60,coordinates,53.3,"named 'Botanical garden in the Eurasian steppe' in 2025 export"
+Leipzig,L-2,SN010038,"Quedlinburgerstrasse Leipzig, Leipzig",40,coordinates,41.9,
+Leipzig,L-3,SN010017,"Auwaldkran, appr. 0% sealed surface, Leipzig",0,coordinates,0.1,
+Leipzig,L-4,SN010013,"Car repair shop, highly sealed (appr. 85%), Leipzig",80,coordinates,77.9,
+Leipzig,L-5,SN010015,"Markkleeberg Allotment garden Matthias Albert, Leipzig",20,coordinates,19.8,
+Marburg,MR-1,SN010023,"Marburg Open Forest near Caldern, Marburg",0,coordinates,0.0,
+Marburg,MR-2,SN010025,"Lena Lerb's Garten, Marburg",40,coordinates,,
+Marburg,MR-3,SN010027,"Parking bay near generator building of Stadtwerke Marburg,",80,locationID,,"no coordinates in Aug export; matched via locationIDs HE-GI-0144, HE-GI-7230, HE-MR-1072"
+Marburg,MR-4,SN010024,"Robert Junker's garden, Marburg",20,coordinates,30.0,
